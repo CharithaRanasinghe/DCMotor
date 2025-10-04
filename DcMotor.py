@@ -21,8 +21,8 @@ A = np.array([
 B = np.array([0.0, 0.0, 1.0/La, 0.0]).reshape((4,1))
 C = np.array([0.0, 0.0, 0.0, -1.0/J]).reshape((4,1))
 
-V = 12.0
-TL = 0.05
+V = 12.0    # Applied Voltage in Volts
+TL = 0.05   # Load Torque Acting on the Armature
 
 X = np.zeros((4,1))
 i_hist = np.zeros(N)
