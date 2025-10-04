@@ -104,7 +104,7 @@ Example output:
 3. Run the simulation:
 
    ```bash
-   python dc_motor_sim.py
+   python DCMotor.py
    ```
 
 ---
