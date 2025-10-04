@@ -91,8 +91,8 @@ Example output:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/CharithaRanasinghe/DCMotor.git
-   cd DCMotor
+   git clone https://github.com/CharithaRanasinghe/DcMotor.git
+   cd DcMotor
    ```
 
 2. Install dependencies:
@@ -104,7 +104,7 @@ Example output:
 3. Run the simulation:
 
    ```bash
-   python DCMotor.py
+   python DcMotor.py
    ```
 
 ---
